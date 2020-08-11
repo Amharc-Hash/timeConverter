@@ -3,7 +3,7 @@ int main(int argc, char const* argv[])
 {
     unsigned long t;
     int h, m, s;
-    printf("Enter your time (second) : ")
+    printf("Enter your time (second) : ");
     scanf("%lu", &t);
     h = t / 3600;
     t -= h * 3600;
