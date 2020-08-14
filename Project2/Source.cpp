@@ -18,7 +18,5 @@ int main(int argc, char const* argv[])
     {
         printf("Error");
     }
-
-
     return 0;
 }
